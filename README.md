@@ -77,7 +77,7 @@ _Below is an example of how you can instruct your audience on installing and set
 1. Get a free API Key at by signing up and filling a form under Settings=>Api [https://www.themoviedb.org/](https://www.themoviedb.org/)
 2. Clone the repo
    ```sh
-   git clone https://github.com/sowjikatragadda/REACT-MOVIE-APP.git
+   git clone https://github.com/sowjikatragadda/React-Movie-App.git
    ```
 3. Install NPM packages
    ```sh
@@ -106,7 +106,7 @@ Distributed under the Unlicense License. See `LICENSE.txt` for more information.
 
 Your Name - sowjanya k - sowjanya.netdeveloper@gmail.com
 
-Project Link: [https://github.com/sowjikatragadda//REACT-MOVIE-APP](https://github.com/sowjikatragadda/REACT-MOVIE-APP)
+Project Link: [https://github.com/sowjikatragadda/React-Movie-App](https://github.com/sowjikatragadda/React-Movie-App)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
